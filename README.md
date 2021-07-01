@@ -1,2 +1,4 @@
-# python-programs
-A repository containing Python programs made by me while learning Python
+# Python Programs
+This repository contains simple programs I made while learning Python.
+
+Even then, snybody is free to file issues and pull requests to make all this code better.
